@@ -1,0 +1,71 @@
+.detail_page{
+    width: 91%;
+    margin: 5% 5%;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+}
+.right_page{
+    width:80%;
+    height: auto;
+    padding: 25px 0px;
+    box-shadow: 2px 3px 11px 0px rgb(180, 180, 180);
+}
+.left_page{
+    width:19%;
+    height: 200px;
+    box-shadow: 2px 3px 8px 0px rgb(180, 180, 180);
+}
+.left_page ul{
+    padding: 0px !important;
+     width: 90%;
+     margin: 5% 5%;
+}
+
+.section{
+    padding: 8px 10px;
+    border-bottom: 2px solid transparent;
+    list-style: none;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    font-weight: 500;
+    white-space: nowrap;
+}
+.activee {
+    border-bottom: 2px solid #239ce2;
+    color: #239ce2;
+}
+.lab{
+    padding: 12px 15px !important;
+    border-bottom: 2px solid transparent;
+    list-style: none;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 21px;
+    font-weight: 500;
+    white-space: nowrap;
+}
+.details .row{
+    display: flex;
+}
+.btn{
+    margin-left: 20px;
+    padding:8px;
+    font-size: 18px;
+    margin-top: 20px;
+    width: 75px;
+    border: none;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(161, 161, 161);
+}
+.btn1{
+    margin-left: 15px;
+    padding: 8px;
+    font-size: 18px;
+    width: 75px;
+    border: none;
+    margin-top: 20px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(19, 97, 242);
+}

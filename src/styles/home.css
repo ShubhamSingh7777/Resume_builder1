@@ -1,0 +1,14 @@
+.container_box {
+    width: 91%;
+    margin: 0% 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box1 {
+    background-color: rgba(5, 33, 59, 0.75);
+    width: 24%;
+    color: #fff;
+    margin-top:50px !important;
+    margin: 50px 5px;
+}

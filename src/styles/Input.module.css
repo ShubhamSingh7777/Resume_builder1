@@ -1,0 +1,29 @@
+.ContainerInput{
+    display: flex;
+    width: 95%;
+    margin: 0% 2%;
+    flex-direction: column;
+    gap: 5px;
+}
+laber{
+    font-size: 21px;
+    text-transform: capitalize;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+}
+input
+{
+    outline: none;
+    border: 1px solid #cccccc;
+    padding: 10px 12px !important;
+    color: black;
+    border-radius: 5px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 19px;
+}
+input:hover{
+    border: 1px solid #adadad;
+}
+input:focus{
+    border: 1px solid #239ce2;
+}
